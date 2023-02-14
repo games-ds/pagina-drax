@@ -1,0 +1,44 @@
+.gameCardContainer {
+    background-color: #414141;
+    border-radius: 7px;
+    margin: 10px 0;
+    transition: 0.5s;
+}
+
+.gameCardContainer:hover {
+    transform: scale(1.02);
+}
+
+.gameCardSubContainer {
+    margin: 6px 30px;
+}
+
+.gameCardInfo {
+    width: 300px;
+    padding: 10px 0;
+    border-radius: 7px 7px 0 0;
+    background: rgb(64,64,64);
+    background: linear-gradient(90deg, rgb(44 44 44) 67%, rgb(38 39 39) 100%);
+}
+
+.nameGameCard {
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+}
+
+.nameGameCard {
+    font-size: 26px;
+    font-weight: 500;
+    margin: 10px 0px 0px 20px;
+}
+
+.authorGameCard {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px 0px 0px 20px;
+}
+
+.imgGameCard {
+    border-radius: 0 0 7px 7px;
+}

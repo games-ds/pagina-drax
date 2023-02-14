@@ -1,0 +1,211 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  /* FUENTE TEMPORAL */
+}
+
+.navAppContainer {
+  width: 100%;
+	height: auto;
+	display: flex;
+	position: fixed;
+	list-style: none;
+	top: 0;
+
+	padding-bottom: 10px;
+	text-align: center;
+	flex-flow: row-reverse;
+	background-color: transparent;
+	transition: 0.6s;
+	top: -10%;
+
+	z-index: 2;
+}
+
+.navDown {
+  height: 60px;
+	background-color: #343434 !important;
+	/* border-bottom: 1px solid #343434; */
+	box-shadow: 1px 0px 3px 0px #14141490;
+	top: 0% !important;
+}
+
+.navApp {
+	width: 100%;
+	height: 65px;
+	display: flex;
+	position: fixed;
+	list-style: none;
+	top: -60;
+
+	padding-bottom: 10px;
+	text-align: center;
+	flex-flow: row-reverse;
+	transition: 0.6s;
+	z-index: 2;
+  
+}
+
+.ItemNavApp {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  transition: .3s;
+
+  position: relative;
+  top: 10px;
+  left: -10px;
+
+  margin-top: 15px;
+	margin-right: 25px;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+		'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.ItemNavApp:hover {
+  color: #2381c0;
+}
+
+/* DROPDOWN */
+
+.btnUserContainer {
+  height: 60px;
+}
+
+.dropdown {
+	display: none;
+	position: absolute;
+	min-width: 160px;
+	z-index: 1;
+	background-color: #6b6b6b;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  text-align: left;
+
+	right: 280px;
+  top: 70px;
+}
+
+.iconDropUsuario {
+	position: relative;
+	top: 2px;
+	color: rgb(82, 82, 82);
+	font-size: 14px;
+}
+
+.redesDrop {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  height: 60px;
+  transition: .3s;
+
+  position: relative;
+  top: 10px;
+  left: -10px;
+
+  margin-top: 15px;
+	margin-right: 25px;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+		'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.redesDrop:hover {
+  color: #2381c0;
+}
+
+.btnUser:hover + .dropdown {
+	display: block;
+}
+
+.dropdown:hover {
+	display: block;
+}
+
+.dropdownElement {
+	padding: 4px 0px;
+  margin-left: 15px;
+	font-weight: 500;
+}
+
+.dropdownElement:hover {
+	color: #2381c0;
+}
+
+/* ICONOS DEL DROPDOWN ELEMENT */
+.downIconApp {
+  position: relative;
+  top: 4px;
+  margin-right: 5px;
+}
+
+.iconApp {
+  position: relative;
+  top: 4px;
+  margin-right: 5px;
+  transition: 0.5s;
+}
+
+.discordIcon:hover {
+  color: #2381c0 !important;
+}
+
+.patreonIcon:hover {
+  color: orange !important;
+}
+
+.tiktokIcon:hover {
+  color: mediumvioletred !important;
+}
+
+.lovenseIcon:hover {
+  color: orangered !important;
+}
+
+/* OVERFLOW */
+
+::-webkit-scrollbar {
+    width: 10px;
+	background-color: #343434;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 7px;
+    background-color: #242424;
+}
+::-webkit-scrollbar-track {
+    /* border: 1px solid rgb(77, 75, 75); */
+    padding: 2px 0;
+    background-color: transparent;
+}
+
+/* TAG */
+
+.tag {
+
+/*  OTRO ESTILO
+ 	background-color: transparent !important;
+	padding: 5px 15px;
+	color: #2381c0;
+	border: 2px solid #2381c0;
+	border-radius: 14px;
+	font-size: 18px;
+	font-weight: 500; 
+
+	*/
+
+	font-size: 18px;
+    font-weight: 500;
+    padding: 5px 25px;
+    border-radius: 7px;
+    border: transparent;
+    background: #222222;
+    color: white;
+	margin: 5px;
+	transition: 0.5s;
+}
+
+.tag:hover {
+	background-color: #323232;
+	transform: scale(1.02);
+}

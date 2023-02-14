@@ -1,0 +1,62 @@
+.homeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    padding: 110px 0 5% 0;
+    background-color: #202020;
+}
+
+.HomeSubContainer {
+    max-width: 1400px;
+    margin: 0 10%;
+    padding-bottom: 10px;
+    width: -webkit-fill-available;
+    height: auto;
+    background-color: #343434;
+    border-radius: 7px;
+}
+
+.sectionHome {
+    background-color: #404040;
+    width: -webkit-fill-available;;
+    margin: 5px;
+    border-radius: 7px;
+}
+
+.bodyHome {
+    display: flex;
+}
+
+.titleSectionHome {
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+    margin: 10px 10px;
+    padding: 6px 0 0 2px;
+}
+
+/* BODY */
+
+.popularGames {
+    display: flex;
+    overflow: auto;
+    height: 180px;
+}
+
+.GameTags {
+    min-width: 300px;
+    width: min-content;
+}
+
+.gamesHomeContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gamesSecondContainer {
+    display: flex;
+    overflow: auto;
+    height: 215px;
+    padding-bottom: 5px;
+}

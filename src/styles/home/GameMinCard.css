@@ -1,0 +1,24 @@
+
+
+.infoGameCard {
+    position: relative;
+    background-color: #202020;
+    bottom: 160px;
+    display: flex;
+    height: 35px;
+}
+
+.infoItemGameCard {
+    display: flex;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: 8px;
+    margin: 0 5px;
+    color: #fff;
+}
+
+.iconInfoItemGameCard {
+    position: relative;
+    top: 3px;
+}

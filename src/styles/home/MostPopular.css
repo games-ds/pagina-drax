@@ -1,0 +1,22 @@
+
+.MostPopularContainer {
+    margin: 5px;
+}
+
+.firstInfoMostPopular {
+    position: relative;
+    top: -154px;
+    left: 0px;
+    width: 300px;
+    height: 150px;
+    background: #00000057;
+    text-align: center;
+}
+
+.nameMostPopular {
+    position: relative;
+    top: 65px;
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+}

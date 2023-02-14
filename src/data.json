@@ -1,0 +1,202 @@
+[
+    {
+        "name": "juego 1",
+        "author": " autor 1",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "frontPage": "https://picsum.photos/600/400",
+        "images": [
+            "https://picsum.photos/300/200",
+            "https://picsum.photos/300/200",
+            "https://picsum.photos/300/200",
+            "https://picsum.photos/300/200"
+        ],
+        "tags": [
+            "tag 1",
+            "tag 2",
+            "tag 3",
+            "tag 4",
+            "tag 5",
+            "tag 6",
+            "tag 7"
+        ],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consequat nisl vel pretium lectus. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Massa ultricies mi quis hendrerit. Aenean vel elit scelerisque mauris",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no",
+        "_id": "1"
+    },
+    {
+        "name": "juego 2",
+        "author": " autor 2",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    },
+    {
+        "name": "juego 3",
+        "author": " autor 3",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    },
+    {
+        "name": "juego 4",
+        "author": " autor 4",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    },
+    {
+        "name": "juego 5",
+        "author": " autor 5",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    },
+    {
+        "name": "juego 6",
+        "author": " autor 6",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    },
+    {
+        "name": "juego 7",
+        "author": " autor 7",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    },
+    {
+        "name": "juego 8",
+        "author": " autor 8",
+        "banner": "https://picsum.photos/300/150/?blur",
+        "images": [],
+        "tags": [],
+        "stats": {
+            "downloads": "2k",
+            "views": "4k",
+            "score": "4.5",
+            "scoreNumber": "3000"
+        },
+        "description": "lorem ipsum dolor sit amet, consectetur",
+        "links": {
+            "drive": "link",
+            "mega": "link",
+            "mediaFire": "link",
+            "vip": "link"
+        },
+        "dateUpload": "11/2/23",
+        "version": "1.0",
+        "censored": "no"
+    }
+    
+]

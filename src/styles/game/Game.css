@@ -1,0 +1,153 @@
+.GameContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    padding: 110px 0 5% 0;
+    background-color: #202020;
+}
+
+.GameSubContainer {
+    max-width: 1400px;
+    margin: 0 10%;
+    display: flex;
+    background-color: #343434;
+    border-radius: 7px;
+}
+
+.GameContentContainer {
+    padding-bottom: 10px;
+    max-width: 1000px;
+    width: -webkit-fill-available;
+    height: auto;
+    background-color: #404040;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.firtsTitleGame {
+    color: white;
+    margin: 5px 10px;
+    background: #343434;
+    border-radius: 7px;
+    padding: 10px 15px;
+}
+
+.secondTitleGame {
+    margin: 10px 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* BODY GAMES */
+
+.GameImagesContainer {
+    display: flex;
+    overflow: auto;
+    background-color: #464646;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.GameImagenContainer {
+    width: auto;
+    margin: 3px 5px;
+}
+
+.frontPageGameContainer {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.descriptionGameContainer {
+    margin: 15px 5px;
+    background: #464646;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+
+.titleDescriptionGame {
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+
+.dataDescriptionGame {
+    margin: 5px 0;
+    color: #b4b4b4;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* REQ AND PLAT */
+
+.ReqAndPlatContainer {
+    margin: 15px 5px;
+    background: #464646;
+    padding: 10px 15px;
+    border-radius: 7px
+}
+
+.ReqAndPlatSubContainer {
+    display: flex;
+}
+
+.sectionReqAndPlat {
+    width: 50%;
+}
+
+.subTitleSection {
+    font-size: 20px;
+    font-weight: 600;
+    color: #848484;
+}
+
+.itemReqAndPlat {
+    margin: 5px 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.iconReqAndPlat {
+    position: relative;
+    top: 3px;
+    color: #8b8b8b;
+}
+
+/* Download */
+
+.downloadGameContainer {
+    margin: 15px 5px;
+    background: #464646;
+    padding: 10px 15px;
+    border-radius: 7px;
+    display: flex;
+}
+
+.downloadSectionGameContainer {
+    width: 50%;
+}
+
+.itemDownloadGameContainer {
+    background: #505050;
+    padding: 10px 15px;
+    border-radius: 7px;
+    width: 200px;
+    margin: 10px 0;
+    display: flex;
+}
+
+.iconDownloadGame {
+    width: 50px;
+}
+
+.textDownloadGame {
+    
+    margin: 7px 10px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #242424;
+
+}
